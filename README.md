@@ -1,0 +1,2 @@
+# COVIDAPP
+school project 
